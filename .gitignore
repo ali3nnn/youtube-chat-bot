@@ -65,7 +65,6 @@ typings/
 .cache
 
 # Lockfile
-package-lock.json
 yarn.lock
 
 # Jest
