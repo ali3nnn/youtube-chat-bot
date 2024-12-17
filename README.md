@@ -1,7 +1,7 @@
 # Get started
 
 1. Run `npm ci`
-2. Go to `/Users/alexbarbu/PersonalProjects/youtube-chat-bot/node_modules/@autoclickpro/rpa/dist/index.cjs` and update as follows:
+2. Go to `./youtube-chat-bot/node_modules/@autoclickpro/rpa/dist/index.cjs` and update as follows:
 
    - from: var nutJs = require('@nut-tree/nut-js');
    - to: var nutJs = require('@nut-tree-fork/nut-js');
